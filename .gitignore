@@ -1,0 +1,14 @@
+node_modules
+public/lib
+.sass-cache/
+.DS_store
+c4h_keys.txt
+package-lock.json
+dist/
+.coverrun
+.env
+.coverdata
+.nyc_output
+coverage
+reports
+
